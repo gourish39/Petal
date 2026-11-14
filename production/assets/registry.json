@@ -1,0 +1,21 @@
+{
+  "uploads": {
+    "petal_07_sitting_front": "19d5fc6f-8239-46ed-ada9-7111b3a11465",
+    "petal_04_side_profile_harness": "aa0353cf-1186-4602-b7a2-e088d61b5869",
+    "petal_05_side_spots": "8b72810d-09bb-41d7-a1c3-3c790fba70fa",
+    "petal_06_face_closeup": "f2bda34b-b2aa-4373-b79a-2234f4807170",
+    "petal_09_happy_front": "56812ff0-8842-4e5f-a93f-5d4d0d6bc6c3",
+    "petal_03_walk_3q": "42638091-6b2b-4772-ac5f-2d39b5df83b3"
+  },
+  "jobs": {
+    "petal_turnaround_v1a": "8aa24be1-4db1-4828-a989-a97f141889f6",
+    "petal_turnaround_v1b": "c413df76-9f49-40ca-b48b-95e9f432925d",
+    "petal_turnaround_v2": "f3ec5ede-e6ef-4dcc-9b67-efa3b4273af1",
+    "petal_expressions_v1": "b53846af-2f52-4d8c-a535-321d14eb35f3",
+    "petal_expressions_v2": "62b0c2dd-448c-460f-8438-2e361939784b"
+  },
+  "gate2_candidates": {
+    "turnaround": "f3ec5ede-e6ef-4dcc-9b67-efa3b4273af1",
+    "expressions": "62b0c2dd-448c-460f-8438-2e361939784b"
+  }
+}

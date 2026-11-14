@@ -53,3 +53,13 @@
   - Audio: TBD.
   - TOTAL ≈ 3,500 cr at 1080p, or ≈ 2,000 cr at 720p (upscale_video as an option).
 - BLOCKER: balance covers only ~5 images. Asked user for approval and top-up.
+
+## P4 Asset Generation: Petal (10 credits spent, balance now 0)
+- Network: created the personal env "Petal" (upload.higgsfield.ai plus 2 Higgsfield CDN hosts) after the default env blocked uploads.
+- Uploaded 6 reference photos (the car selfie excluded).
+- Note: jobs report the model as "nano_banana_2" in status even though nano_banana_pro was requested (Higgsfield-side routing/naming).
+- Turnaround v1 (×2, 4 cr): v1a 8.4 avg (too young: clear eyes, slim body); v1b REJECTED (ghosted duplicate row).
+- Turnaround v2 (2 cr): cloudy eyes, droopy lids, rounder belly → likeness ~8.5, all markers hold. PASS → Gate 2 candidate.
+- Expressions v1 (2 cr): great acting, but clear eyes, grey harness in the bottom row, text labels → ~7.5, FAIL.
+- Expressions v2 (2 cr): labels removed, harness lime in all 6, cloudy eyes → ~8.3.
+  - Known flaws: the haze is strong (pale blue); the DETERMINED panel has one brown and one blue eye; the forehead mark is stylised as a small heart-shaped spot on top of the head. Flagged for the user at Gate 2.
