@@ -36,3 +36,20 @@
   - Ep 5: max 3 characters per shot (Mochi's phone POV, split reverse shot); Sultana given an on-screen beat.
 - With B1–B5 applied, the chair projects all 5 episodes at 8.57 average with every criterion ≥8 → P2 PASS.
 - Final social kit: production/review/p2_final_social_kit.md
+
+## 🛑 GATE 1: APPROVED by user (scripts v3 + B1–B5 fixes).
+
+## P3 Visual Development
+- Style Bible written: production/art/style_bible.md (palette, per-location lighting script, prompt prefix).
+
+## Cost preflight (get_cost, nothing spent)
+- Balance: 10 credits (Ultra plan).
+- nano_banana_pro 2k image (9:16): 2 cr.
+- seedance_2_5, 5s 9:16: draft 480p = 15 cr · 720p = 35 cr · 1080p = 80 cr (standard and high bitrate cost the same).
+- Series estimate (~30 shots, ~150s final footage):
+  - Images ≈ 90 gens ≈ 180 cr.
+  - Drafts ≈ 45 × 15 ≈ 675 cr.
+  - Finals: 1080p ≈ 30 × 80 + 10% redos ≈ 2,640 cr, or 720p ≈ 1,150 cr.
+  - Audio: TBD.
+  - TOTAL ≈ 3,500 cr at 1080p, or ≈ 2,000 cr at 720p (upscale_video as an option).
+- BLOCKER: balance covers only ~5 images. Asked user for approval and top-up.
