@@ -5,7 +5,7 @@
 | TC | Shot | Action / expression | Camera | Caption | Sound |
 |----|------|---------------------|--------|---------|-------|
 | 0.0–2.0 | 1 HOOK | Petal's face is lit by a single **"15" number candle** on a bone-shaped cake; her eyes are narrowed, suspicious. Fairy lights behind. | Close-up, warm glow | **"Shhh. Act surprised."** | Candle flicker |
-| 2.0–7.0 | 2 | Biscuit, Noor and Karak crouch behind a lantern-lit planter, shushing each other. Mochi aims her phone. | Wide, skyline bokeh | Mochi overlay: **"LIVE 🔴 Petal's Gotcha Day! (15 yrs since rescue)"** | Pizzicato tiptoe |
+| 2.0–7.0 | 2 | Biscuit, Noor and Karak crouch behind a lantern-lit planter, shushing each other. Mochi aims her phone. | Wide, skyline bokeh | Mochi overlay: **"LIVE 🔴 Petal's Gotcha Day! (15 yrs since her rescue)"** | Pizzicato tiptoe |
 | 7.0–12.0 | 3 | Petal ambles in slowly, **without Jamal**. Everyone pops up. Petal pulls a **huge theatrical "surprised" face**: ears up, mouth open. | Medium, lantern rim light | **"SURPRISE!"** | Party horn |
 | 12.0–18.0 | 4 TWIST | Insert: a **smell box** holding a palm leaf, a cardamom pod, jasmine and a sand bottle. Quick flash cuts to each episode's **nose and eye twitch**. | Insert; 4 fast flash cuts | **"She knew. Every time."** | Four sniffs on the beat |
 | 18.0–24.0 | 5 TURN / LUMP | A neutral **human hand** (plain cuff, nothing identifying) enters and gently sets down **Jamal**, sandy and found, with a small tag: **"Jamal (جمل) = camel"**. Petal rests her chin on him, eyes soft. Noor tears up, and Petal gives her a **cheeky one-eyed side-eye** and a tail thump. | Close-up, shallow depth of field | **"🎁 5/5 · Smells like home."** | Theme slows; *hhhff* |

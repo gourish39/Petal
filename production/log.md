@@ -25,3 +25,6 @@
   - Senior-owner sensitivity: the flop shows breathing and "Charging…"; the flashback ends with a rescuer's hand; the Ep 5 ending is playful (side-eye, spin-trot) and loops to candlelight, never black.
   - Ep 3: "15 years. Same sprinkler." with a 3:59 → 4:00 clock; on-screen jasmine; Sultana's fluff explosion restores the frame-1 pose.
 - Iteration 2 review launched.
+- Iteration 2 results (avg): Pet Creator 8.26 · Growth 8.09 · Gen-Z ~8.2 · Cultural 8.0. Eps 1, 3 and 4 largely pass; Ep 2 is weakest.
+- v3 fixes: dawn irrigation timer (6:00 AM); Ep 2 water bowl, paw prints, "Puppy smell. Unmistakable. 👃", "Plan A (of 47).", "Chilli. Rookie mistake.", Biscuit's chest hug with Petal's sigh; Ep 4 Jamal insert, "She needs her nose." beat, forehead-mark close-up in the flashback, over-the-shoulder loop end, "Jamal… 🥺 → Ep 5"; Ep 5 "Smells like home.", the جمل tag, neutral hand, tightened button timing; Gotcha Day explained on screen in Eps 1 and 5.
+- Iteration 3 (final): a panel chair verifies the fixes landed and re-scores.
