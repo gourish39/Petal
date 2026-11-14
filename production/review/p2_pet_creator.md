@@ -207,3 +207,82 @@ Series average: **7.69**. Bold marks a score below 8; each one has a fix below.
 3. **EP1–4, 25.0–30.0:** make the secret arc readable on mute. Caption "Secret Gotcha Day gift 1/5 🤫" plus a centred 0.5s prop insert naming each item. In EP1, Petal's eye snaps open *at* the tuck, and EP3's jasmine moves on-screen.
 4. **EP2 and EP4, 0.0–2.0:** replace the generic hooks (a nose macro, a weather wall) with Petal plus stakes in frame 1: "Puppy lost. Grandma's on it." with Biscuit's tail in a background basket, and "Grandma's done this before." with Petal's silhouette facing the sand wall.
 5. **EP1 14–19, EP2 2–8, EP4 8–14:** soften the trauma codes for senior and rescue owners. The flop gets instant snore Zs, breathing and "Charging… 🔌". Replace the empty collar with a peeking tail and "hiding? 🙈". End the 2011 flashback on the rescuer's hand reaching in.
+
+---
+
+## Iteration 2
+
+**Inputs re-read:** `series_bible.md` (v2, with the "Iteration 2 rules" section) and `ep01–ep05_script.md` (v2).
+**Verdict:** this is a real step up. The rainbow-bridge ending is gone, the gift count is consistent ("5 Smells for 15 Years" with five tags), Jamal is now lost in EP4 and returned in EP5, every hook puts Petal's face in frame 0, and the collapse now reads as charging. **Three episodes clear the bar (EP1, EP3, EP4). EP2 and EP5 still don't.** There's also one new grief trigger that came in with the rewrite: the word "last".
+
+### 1. Score table (iteration 2)
+
+| Criterion | EP1 | EP2 | EP3 | EP4 | EP5 |
+|---|---|---|---|---|---|
+| Hook (first 2s) | 9 | 8 | 9 | 8 | 9 |
+| Emotional payoff | 8 | **7** | 9 | 9 | **7** |
+| Loop / re-watch | 9 | 8 | 8 | **7** | 9 |
+| Shareability | 9 | **7** | 9 | 8 | 9 |
+| Clarity on mute | 8 | 8 | 8 | 8 | 8 |
+| Character charm | 9 | 8 | 9 | 8 | 9 |
+| Cultural fit | 8 | 8 | 8 | 8 | 8 |
+| **Average** | **8.57** | **7.71** | **8.57** | **8.00** | **8.43** |
+
+Series average: **8.26**, up from 7.69. Bold marks a score below 8.
+
+### 2. Joy-vs-grief audit (senior and rescue owners)
+
+| Iter-1 flag | Status in v2 |
+|---|---|
+| EP1 flop / "Battery 1%" | **Fixed.** "Charging… 🔌 1%", Zzz, the belly rising and falling. |
+| EP2 empty collar | **Fixed.** No collar. A wagging tail in a basket in frame 0. |
+| EP4 6s lone puppy | **Fixed.** About 3s alone, then the rescuer's hand lifts her (7–13). |
+| EP4 eyes closed | Acceptable. The tail is high "like a lantern". Optional: make it the signature full-circle wag. |
+| EP5 chin on Jamal + crying Noor | **Fixed.** Her eyes are soft, not closed. The one-eyed side-eye and tail thump at Noor turn the tears into a laugh. |
+| EP5 trot into darkness | **Fixed.** She trots *to* the cake, her sigh blows out the candle, the lights stay on, and the loop starts on the relit candle. |
+| **NEW: EP5 18–24 "The last smell: home."** | **Grief trigger.** For anyone who has had a 15-year-old dog, "the last ___" means last walk, last birthday, last day. Comments will read "THE LAST?? 😭". It's one word in the line that is meant to be the emotional peak. Change it to **"🎁 5/5 · Smells like home."** |
+| **NEW: EP4 19–24 Jamal left in the sand** | It works across the series, but a viewer who only sees EP4 watches a 15-year-old dog put down her lifelong toy, close her eyes and walk into the light. That's close to a "letting go" image, and nothing in EP4 says he'll come back. The triple shake saves the mood, but the toy is still lost when the episode ends. Fix it in the loop shot (see the EP4 fix below): a tease that turns the loss into a cliffhanger. |
+
+### 3. Remaining fixes (scores below 8)
+
+| Ep | Criterion | TC | Fix |
+|---|---|---|---|
+| EP2 | Emotional payoff 7 | 20.0–23.0 | The reunion still has no Biscuit-to-Petal moment. Biscuit **launches out of the basket and his legs tangle into her chest**, and she gives one full-circle tail wag. "Wet puppy" is still unearned, because he's dry. Change the line to **"Puppy breath. Unmistakable."** |
+| EP2 | Shareability 7 | 17.0–20.0 | The send-to line ("treat hidden three rooms away") still isn't on screen and doesn't match the story. As she tracks with her nose low, add the owner-truth caption **"POV: you opened cheese 3 rooms away 🧀"**. That line drives shares and comments. |
+| EP4 | Loop 7 | 27.0–30.0 | The end silhouette faces away, against coral, with no Jamal. Frame 1 has her face to camera, the orange wall behind, Jamal in her mouth. The match is weak. Instead, have Petal **look back over her shoulder, face to camera, in the frame-1 lens and size**, with the retreating orange haze behind her and an empty mouth. Caption **"Jamal… 🥺 → Ep 5"**. Now the loop matches, and the missing toy makes people follow for EP5 instead of grieving. |
+| EP5 | Emotional payoff 7 | 18.0–24.0 | Change **"The last smell: home."** to **"🎁 5/5 · Smells like home."** That removes the end-of-life read from the peak beat. |
+
+**Advisories (not scored down):**
+- EP1 has no Arabic word yet. "YALLA!" on Mochi's flag at 6s is free local warmth.
+- EP1 explains "Gotcha Day" only in the pinned comment. Put "Gotcha Day = adoption day 🐾" as a 1s sub-line under the 21–30 mission caption.
+- EP3 has Jamal in her mouth at 0s, and then he vanishes. Set him by the bed at 5s.
+- EP3: "Khalas." for "Fine." is still an option.
+- EP4 still has no cool-season cue against "45°C, irresponsible" comments.
+- EP5: the box lid needs a label, "5 Smells for 15 Years".
+- EP5: Sultana is in the cast list but in no shot. Her "secretly sleeps next to Petal" payoff is missing; give her 1s curled against Petal at 24–30.
+- EP5 shot 2 shows 4 characters, which breaks the max-3 rule.
+
+### 4. Social kit updates (only what v2 made outdated)
+
+**EP1: hook variants** (the v2 hook is "Saluki vs. Grandma.")
+1. Saluki vs. Grandma.
+2. Never race a senior dog.
+3. 15 years old. 0 retirements.
+Pet-niche hashtags: swap #oldmanandolddogs for **#saluki**.
+
+**EP2: hook variants** (the v2 hook is "Puppy lost. Grandma's on it.")
+1. Puppy lost. Grandma's on it.
+2. Her nose remembers 2011.
+3. Maps are for cats.
+
+**EP3:** the caption and tags still work. The crescent advisory is closed, because the charm is now a pearl. Hook variant 1 becomes **"She's in my bed."**
+
+**EP4: caption** (107 chars)
+> Alone in a 2011 sandstorm. Now she leads them home 🧡 (Jamal… we'll get you 🥺) What year did your rescue come home? 👇
+
+**EP5: caption** (110 chars)
+> Happy Gotcha Day, Petal 🎂 She knew all along. Tag a senior dog who deserves a party and tell us their age 👇
+
+Hook variant 3 becomes **"Shhh. Act surprised."**
+
+**Arc name for the pinned comment and playlist:** "5 Smells for 15 Years". The iter-1 alternatives "15 Smells" and "14 pouches" are retired.

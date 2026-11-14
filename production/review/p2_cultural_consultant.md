@@ -216,3 +216,129 @@ The souk (Ep2) and skyline (Ep5) ambiences are where stock "Middle East" librari
 5. **Ep3 25.0–30.0:** fix the broken loop. Wet Sultana fluff-pops dry back into the frame-1 pose.
 
 **Strongly recommended upgrades:** rename Captain Kebab to **Captain Karak** (his coat colour, his cardamom gift, Dubai's drink). Land the **Jamal = camel** pun on screen. Use the **Saluki** prestige in the Ep1 hook. Make Noor's jar a **sand-art bottle with a camel pattern**.
+
+---
+
+## Iteration 2
+
+**Scope:** `series_bible.md` (with the new "Iteration 2 rules") and `ep01_script.md` to `ep05_script.md`, all v2.
+**Verdict:** the sensitivity blockers are fixed. Leashes are on in public, no animal touches souk goods, the souk basket is empty and discarded, the crescent is now a pearl, Kebab is now Karak, the rooftop uses plain brass lanterns and fairy lights, the bible bans crescents, flags and the adhan, the numbers are fixed ("15 years. Same sprinkler.", "The last smell: home."), and the Ep3 loop is fixed. What is left is mostly **unfinished local payoff and on-screen clarity**: three iteration-1 fixes were not carried over (the sprinkler hour, the "Wet puppy" line and the Gotcha Day gloss), and the bible now promises things the scripts don't deliver. **No episode passes every criterion yet**, but every remaining gap is a 7 with a small fix. I have not rounded anything up because it changed.
+
+### Series-level checks (iteration 2)
+- **Bible vs scripts mismatch 1, Jamal pun.** The bible says Jamal's name meaning is "shown on screen once". No script shows it. Ep5 18–24s is the place (tag on the toy: **"Jamal (جمل) = camel"**).
+- **Bible vs scripts mismatch 2, Gotcha Day gloss.** The bible says "Mochi's overlay explains it in Ep 1". In Ep1 the gloss is only an *alt* line for the pinned comment. On screen, nothing explains the term in any episode. Many UAE viewers will not know it, and Ep5's whole caption set depends on it.
+- **No adhan rule** is now in the bible (World section). Keep it on the sound-design checklist for Ep2 and Ep5 stock ambiences.
+- **Leash continuity, Ep2.** Petal is leashed. Biscuit is "lost", so he must have slipped his leash. That is the premise and it is fine. Don't show him running loose among the stalls on screen; the basket reveal handles it.
+- **"Grandma"** is now used in three hooks (Ep1, Ep2, Ep4). It is affectionate and culturally fine (*teta / yadda* energy), but three in five is repetitive for the series grid. This is not a score item.
+
+### Score table (iteration 2)
+
+| Ep | Hook | Emotional payoff | Loop | Shareability | Clarity on mute | Character charm | Cultural fit | **Avg** |
+|---|---|---|---|---|---|---|---|---|
+| 1 Senior Zoomie | 9 | 8 | 8 | 8 | 7 | 9 | 8 | **8.1** |
+| 2 Nose Knows | 8 | 8 | 8 | 7 | 7 | 8 | 8 | **7.7** |
+| 3 Side-Eye Royalty | 8 | 9 | 8 | 9 | 8 | 9 | 7 | **8.3** |
+| 4 Sandstorm Shepherd | 8 | 9 | 7 | 9 | 7 | 8 | 8 | **8.0** |
+| 5 Fifteen | 8 | 9 | 8 | 8 | 7 | 9 | 7 | **8.0** |
+| **Criterion avg** | 8.2 | 8.6 | 7.8 | 8.2 | 7.2 | 8.6 | 7.6 | **8.0** |
+
+(Iteration 1 overall: 7.3. Cultural fit went from 5.6 to 7.6.)
+
+### EP 1: The Senior Zoomie
+| Criterion | Score | Notes / fix |
+|---|---|---|
+| Hook | 9 | "Saluki vs. Grandma." is exactly the local breed-prestige hook. It passes. |
+| Emotional payoff | 8 | Biscuit copying the nap with his chin on her patch, plus the eye twitch, lands. It passes. |
+| Loop | 8 | Eye twitches open, then match to the open eye at frame 1. It passes. |
+| Shareability | 8 | "Technically… she won." plus the send-to works. It passes. |
+| Clarity on mute | **7** | **Fix, 6.0–10.0:** put the gloss on screen, not only in the pinned comment. Mochi's overlay becomes **"LIVE 🔴 she's FAST??"**, then at 8.0s **"(Gotcha Day = adoption day 🐾)"**. Also, **21.0–30.0** stacks two captions ("Secret mission…" then "🎁 1/5"). Give "Secret mission" ≥2.5s before the gift tag replaces it. The chalk finish line should be visible in the 2.0–6.0 two-shot (background) so the 15s win is set up. |
+| Character charm | 9 | It passes. |
+| Cultural fit | 8 | Leashes are on, she flops on the grass verge and the flower is on his head, not in a trashed bed. It passes. Make sure the "flower" is a **bougainvillea** bloom from the planter, not a picked municipal bed. |
+
+### EP 2: The Nose Knows
+| Criterion | Score | Notes / fix |
+|---|---|---|
+| Hook | 8 | Petal's face, a 5-word caption and the basket clue. It passes. |
+| Emotional payoff | 8 | Karak's bow plus the cardamom gift. It passes. (Still recommended: Petal bows back with a slow senior head-dip.) |
+| Loop | 8 | It passes. |
+| Shareability | **7** | **Fix, send-to line:** "When your dog finds the treat you hid three rooms away" still doesn't match a lost-puppy story (carried over from iteration 1). Change it to **"Moms who can find anything, at any age."** |
+| Clarity on mute | **7** | **Fix, 17.0–23.0:** "Wet puppy. Unmistakable." still has no setup, because nothing made Biscuit wet. Change it to **"Puppy smell. Unmistakable."**, or at 0.0–2.0 have the basket sit beside a knocked-over **paper cup of karak** that splashed him (it also lands the name). Optional: a faint sky-blue scent ribbon at nose height. |
+| Character charm | 8 | It passes. |
+| Cultural fit | 8 | On leash, on the walkway, a discarded empty basket, and the sneeze aimed at Karak and his map, not the stock. Karak's name now pays off his coat and the cardamom. It passes. Sound check: the souk ambience must be abra putter, shutters and voices, with **no adhan**. |
+
+### EP 3: Side-Eye Royalty
+| Criterion | Score | Notes / fix |
+|---|---|---|
+| Hook | 8 | "She's in my bed." with the rack focus. "Kneel." is gone. It passes. |
+| Emotional payoff | 9 | It passes. |
+| Loop | 8 | The fluff explosion back into the frame-1 pose fixes it. It passes. |
+| Shareability | 9 | It passes. |
+| Clarity on mute | 8 | "15 years. Same sprinkler." and the jasmine are now on screen. It passes. |
+| Character charm | 9 | The pearl charm reads as royal. It passes. |
+| Cultural fit | **7** | **Fix, 10.0–21.0:** the clock reads **3:59 → 4:00** in full sunshine. That is 4 pm, but Dubai villa irrigation runs at dawn or dusk, and a Persian cat lounging in 4 pm sun reads as heat risk to locals. Change the insert to a **dusty irrigation timer box at 5:59 → 6:00**, with **low early-morning gold light**. The gag is unchanged, and every villa resident will recognise it. |
+
+### EP 4: Sandstorm Shepherd
+| Criterion | Score | Notes / fix |
+|---|---|---|
+| Hook | 8 | It passes. |
+| Emotional payoff | 9 | The hand lifting the puppy, and Jamal being sacrificed. It passes. |
+| Loop | **7** | **Fix, 29.5–30.0:** the end frame is a calm coral-sunset silhouette, and frame 1 has a towering sand wall, so the jump reads as a cut, not a loop. In the last 0.5s, let the **first curl of the orange sand wall crest the dune** behind Petal's silhouette. |
+| Shareability | 9 | "Adopt the old ones. They've survived storms." UAE rescue groups will share it. It passes. |
+| Clarity on mute | **7** | **Fix, 22.0–24.0:** "Jamal is left behind (a small shape in the sand)" is the setup for the whole Ep5 payoff, and in a wide tracking shot it is invisible on a phone. Add a **1s centred insert of Jamal alone, half-buried, as the haze closes over him**. |
+| Character charm | 8 | It passes. (Still recommended: Noor's welling eyes reflect the tail-light. *Noor* = light.) |
+| Cultural fit | 8 | "Dubai, 2011.", a rescued desert stray, a sand-art camel bottle and a sunset (not midday) outing. It passes. Recommended: a far-off line of **ghaf trees** in the flashback, so it reads as UAE, not Sahara. |
+
+### EP 5: Fifteen
+| Criterion | Score | Notes / fix |
+|---|---|---|
+| Hook | 8 | "Shhh. Act surprised." It passes. |
+| Emotional payoff | 9 | It passes. |
+| Loop | 8 | The candle re-lights for the match to frame 1. It passes. |
+| Shareability | 8 | It passes. |
+| Clarity on mute | **7** | **Fix, 2.0–7.0:** this is the most-shared episode and it stands alone in the feed, but "Gotcha Day" is never explained on screen. Change Mochi's overlay to **"LIVE 🔴 Petal's Gotcha Day! (15 yrs since rescue)"**. The flash cuts at 12–18s are also too fast for mute viewers. Use 4 × 1.2s, each tinted in the giver's colour (blue, red, gold, teal). |
+| Character charm | 9 | It passes. |
+| Cultural fit | **7** | **Fix, 18.0–24.0:** land the promised Jamal pun. When the hand sets him down, show a small handwritten tag reading **"Jamal (جمل) = camel"**. The bible says it is shown on screen once, and no episode does it. Also, at 18.0–24.0 specify the hand as **neutral** (a plain sleeve cuff, no jewellery or identifying details). The lanterns and Burj-style silhouette now pass. No flag or flag colours on the cast or cake if posted near 2 Dec. |
+
+### Social kit: iteration 2 updates
+Only the changed items are listed. Everything else from iteration 1 stands.
+
+**Global rule:** never use #kebab, #removekebab or any "kebab" pun anywhere. The character is **Captain Karak**.
+
+**Ep1** (caption updated to match the v2 hook)
+- Caption: `Saluki vs. Grandma. He's a racing breed. She's 15. Guess who won. 🐾 Tag a senior dog who's still got it.`
+- Hook variants: `Saluki vs. Grandma.` · `15 years old. Zero retirements.` · `Racing breed. Wrong opponent.`
+- Hashtags: unchanged.
+
+**Ep2** (Kebab → Karak)
+- Caption: `Captain Karak brought a map. Petal brought a 15-year-old nose. 🌶️🐾 Which smell takes YOU straight back home?`
+- Hook variants: `Puppy lost. Grandma's on it.` · `Forget the map. Follow her.` · `Karak has a plan. She has a nose.`
+- Hashtags (15):
+  - Broad: `#animation #animatedshort #reels #storytime #feelgood`
+  - Pet niche: `#seniordog #dogsofinstagram #streetcat #gingercat #catsanddogs`
+  - Dubai/UAE: `#dubaispicesouk #olddubai #karak #dubaicats #uaepets`
+- Pinned comment: `Captain Karak is named after karak chai: ginger like his coat, brewed with cardamom like his gift. ☕🧡`
+
+**Ep3** (pearl and timing)
+- Caption: `She stole the bed. Petal knew the 6 am sprinkler. 15 years of intel always wins. 😼💦🐶 Tag the cat who runs your house.`
+- Hook variants: `She's in my bed.` · `Never cross a senior dog.` · `Royal cat. Wrong bed.`
+- Hashtags: unchanged.
+
+**Ep4** (the gift is now the sand-art bottle)
+- Caption: `She was a lost puppy in a desert storm once. Now she leads everyone home. 🧡 Adopt the old ones. They've survived storms.`
+- Hook variants: `Grandma's done this before.` · `Sandstorm. Zero visibility. One hero.` · `Follow the old dog's tail.`
+- Hashtags: replace `#therapydog` with `#sandart`, and keep the rest.
+
+**Ep5** (the hook changed, and the Jamal pun goes in the pinned comment)
+- Caption: `They planned a surprise for her 15th Gotcha Day (15 years since her rescue). She smelled every gift coming. She acted surprised anyway. 🎁🐾`
+- Hook variants: `Shhh. Act surprised.` · `Surprise party. She already knew.` · `15 years since her rescue.`
+- Pinned comment: `Jamal = جمل = "camel" in Arabic. He's been with her since 2011. 🐪`
+- Hashtags: unchanged. If posting around 2 Dec, add `#eidaletihad` only in text, never with the flag on the characters.
+
+### Remaining required fixes (iteration 2)
+1. Ep3 10.0–21.0: change the sprinkler to the 6:00 am irrigation timer in low morning light (not 4 pm sun).
+2. Ep5 18.0–24.0: show the "Jamal (جمل) = camel" tag on the returned toy, as the bible promises.
+3. Ep1 6.0–10.0 and Ep5 2.0–7.0: put the Gotcha Day gloss on screen in Mochi's overlay.
+4. Ep2 17.0–23.0: replace "Wet puppy. Unmistakable." with "Puppy smell. Unmistakable." (or set up the karak spill).
+5. Ep2 send-to: change it to "Moms who can find anything, at any age."
+6. Ep4 22.0–24.0: add a 1s insert of Jamal left half-buried in the sand.
+7. Ep4 29.5–30.0: the sand-wall curl crests the dune behind the silhouette, for the loop.

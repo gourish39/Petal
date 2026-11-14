@@ -235,3 +235,56 @@ Character counts include spaces and emoji. All IG captions are 150 characters or
 3. **Ep 3, 2.0–8.0:** cut the 6s side-eye to 3s. Replace "12 years. Same schedule." with "She knows the sprinkler schedule." and a 3:59 → 4:00 PM insert. Rebuild the ending on the dry marble with an on-screen "ugh. fine. 🎁 3/5".
 4. **Ep 2, 0–2s:** replace the 7-word nose caption with an empty-collar hook, "The puppy is missing." Cut the saffron bubble at 8–14 and label the memory "lil Petal, 2011".
 5. **Ep 1, 19–25s:** "Work smarter. Not harder." becomes "Technically… she won." **Ep 5, 25–30s:** Petal's heroic sigh blows out all 15 candles before the loop, and she enters without Jamal at 8–13s.
+
+---
+
+## Iteration 2
+
+**Reviewed:** `series_bible.md` and `ep01–ep05_script.md` (v2). **Threshold:** 8 on every criterion.
+**Result:** Eps 1, 3 and 4 pass. **Ep 2 fails on three criteria and Ep 5 fails on one.** The series-level fixes landed: the arc is now "5 Smells for 15 Years", every gift gets a 1s insert and a twitch, Ep 3's dead air is gone, "Work smarter" is gone, and Petal enters Ep 5 without Jamal. Ep 2 is the episode that took the fewest iteration-1 notes, and it shows.
+
+| Ep | Hook | Emotional payoff | Loop | Shareability | Mute clarity | Character charm | Cultural fit | **Avg** |
+|----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 The Senior Zoomie | 8 | 8 | 9 | 8 | 8 | 9 | 8 | **8.3** |
+| 2 The Nose Knows | 8 | 7 | 8 | 7 | 7 | 8 | 9 | **7.7** |
+| 3 Side-Eye Royalty | 9 | 8 | 8 | 9 | 8 | 9 | 8 | **8.4** |
+| 4 Sandstorm Shepherd | 9 | 9 | 8 | 8 | 8 | 8 | 9 | **8.4** |
+| 5 Fifteen | 8 | 9 | 7 | 9 | 8 | 9 | 8 | **8.3** |
+
+### EP 1 (8.3, passes)
+- Hook: "Saluki vs. Grandma." is 3 words, Petal's face is on frame 0, and her open eye locks to the end match. Most Gen-Z viewers won't know what a Saluki is, but "He's a racing breed." explains it at 2s, so that's fine.
+- "Charging… 🔌 1%" is better than "Battery: 1%" and follows the "charging, never collapse" rule. "Technically… she won." landed.
+- The Saluki-as-Gulf-racing-breed angle is a smarter local signal than the dhow I asked for. Cultural fit now reaches 8.
+- Notes that aren't blocking: the flower-on-head gag survived, but with a 9s button it no longer crowds the nap copy. "Secret mission: 5 smells for her Gotcha Day 🤫" is 8 words and reads as exposition, not cringe. Give it at least 2.5s on screen. Jamal still disappears after 2–6s; nobody will comment, but continuity should decide where he is.
+
+### EP 2 (7.7, fails)
+- Hook 8: "Puppy lost. Grandma's on it." is 5 words with stakes up front. The tail poking out of a basket in the background at frame 0 is a good re-watch Easter egg.
+- **Emotional payoff 7.** 17.0–23.0: Biscuit pops out and Petal gets no contact with him. The lump is handed to Karak's bow, and he's a minor character. **Fix, 21.5–23.0:** Biscuit tumbles out and **buries his face in Petal's chest**, and she rests her chin on his head (1.5s). Karak's bow and the pod follow at 23.0.
+- **Shareability 7.** The send-to line is still "When your dog finds the treat you hid three rooms away", which doesn't match an episode about a lost puppy. That's the same issue as in iteration 1, and it wasn't changed. **Fix:** make the send-to **"Your dog ignoring Google Maps and just… knowing."** Also change the 2.0–7.0 caption "Karak has a plan." (flat) to **"Plan A (of 47)."**
+- **Mute clarity 7.** 17.0–23.0: "Wet puppy. Unmistakable." is still unearned, because nothing on screen shows why Biscuit is wet. **Fix, 2.0–7.0 background:** a **tipped-over dog water bowl outside a stall and a trail of wet paw prints** leading toward the basket. It earns the caption and gives sharp-eyed viewers a second clue.
+- Continuity: the 23–30 sound cue is Jamal's *hhhff*, but Jamal isn't in this episode. Swap it for Petal's *hmph*.
+- Lore risk: "lil Petal, 2011" in the souk, when the bible and Ep 4 say she was found in the desert in 2011. It's survivable (she could have been there after the rescue), but expect a few "wait" comments.
+
+### EP 3 (8.4, passes)
+- The 2–5s side-eye is now 3s, so the dead air is gone. The 3:59 clock insert reads on mute, and "15 years. Same sprinkler." fixes the maths and is funnier than my version.
+- Hook "She's in my bed." is first-person, petty and relatable. That's a 9.
+- The button still has to sell the logic of "nudges a wet bed into the sun". The bed reads as "giving her the warm spot to dry", so it just holds at 8. The fluff explosion gives you a second laugh at the end. Keep the button to the listed actions only; don't add anything.
+
+### EP 4 (8.4, passes)
+- "Grandma's done this before." is a 4-word hook that sets up the flashback. Splitting the voiceover into "She doesn't need to see." and "She remembers." across two slots reads better than the old single long line.
+- Leaving Jamal behind is the strongest new beat in the series, and "WHERE IS JAMAL" in the comments is free setup for Ep 5. Make sure the small shape in the sand at 19–24 is lit or rim-lit enough to spot on a phone.
+- Charm reaches 8 on the Jamal sacrifice and the lantern tail. Optional extra: a heroic-sigh sand flap at 24.0.
+- Note for the whole series: "Grandma" now appears in narrator captions in Eps 1, 2 and 4. That's still affectionate and OK, but don't add a fourth.
+
+### EP 5 (8.3, fails on Loop)
+- "Shhh. Act surprised." is a strong upgrade because it tells the viewer the twist is coming. Entering without Jamal now pays off Ep 4, and "The last smell: home." lands. The heroic sigh blowing out the candle is in. The cheeky side-eye at crying Noor is a good laugh straight after the lump.
+- **Loop 7.** The 24.0–30.0 button is still overstuffed: grin, spin-trot, sigh blowout, Biscuit squeezing Jamal, then the candle re-lighting. That's 5 actions in 6s, which breaks the bible's own ending rule, and the relight loop frame gets squeezed. **Fix:** cut the Biscuit squeeze (the *hhhff* already played at 18–24). The new timing is grin 24.0–25.0, spin-trot 25.0–26.5, sigh blowout 26.5–28.5, a fairy-light-only beat 28.5–29.3, and the trick candle re-lights on her face 29.3–30.0 to match frame 1. Keep the caption "Happy Gotcha Day, Petal 🐾".
+
+### Caption cringe check (all v2 captions)
+None are cringe. The weakest are Ep 2 "Karak has a plan." (flat; fix above) and Ep 1 "Secret mission: 5 smells for her Gotcha Day 🤫" (long but acceptable in a 9s slot). Every hook is 5 words or fewer.
+
+### Remaining required fixes
+1. Ep 2, 21.5–23.0: Biscuit buries his face in Petal's chest and she rests her chin on him before Karak bows.
+2. Ep 2, send-to: change it to "Your dog ignoring Google Maps and just… knowing."; change the 2.0–7.0 caption to "Plan A (of 47)."
+3. Ep 2, 2.0–7.0: add a tipped dog water bowl and wet paw prints leading to the basket so "Wet puppy." is earned; swap the 23–30 *hhhff* for *hmph*.
+4. Ep 5, 24.0–30.0: cut the Biscuit squeeze; grin 24–25, spin-trot 25–26.5, sigh blowout 26.5–28.5, lights beat 28.5–29.3, candle relight match 29.3–30.0.
