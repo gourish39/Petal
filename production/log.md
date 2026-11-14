@@ -70,3 +70,5 @@
 - unlim_trial_in_mcp_active=false. Higgsfield's own "unlim_trial_in_mcp" promo window ran 2026-07-28 → 07-31, so the unlimited part of this trial type is switched off.
 - Result: the plan shows Ultra for 3 days, but with 0 trial credits and no unlimited generations → everything bills from the 10 registration credits.
 - Top-ups and auto-refill are unavailable for this workspace; the only offered path is ULTRA annual ($65, 3,000 cr/mo).
+- ROOT CAUSE FOUND: a get_cost call with use_unlim:true returned "You are using Higgsfield from Claude Code, where unlimited generations are not available. They are available in: Claude chat, Claude Cowork, ChatGPT." The trial is fine; the client surface is excluded. Selecting the private workspace explicitly did not change this.
+- Decision: move generation to Claude Cowork. Handoff written: production/HANDOFF_COWORK.md.
