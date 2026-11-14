@@ -4,7 +4,7 @@
 
 | TC | Shot | Action / expression | Camera | Caption | Sound |
 |----|------|---------------------|--------|---------|-------|
-| 0.0–2.0 | 1 HOOK | Petal's face enters frame left, with Jamal in her mouth, and freezes. Behind her, in focus: Sultana lounging on **Petal's yellow bed**, pearl charm glinting. | Close-up two-plane, rack focus | **"She's in my bed."** | Record-scratch |
+| 0.0–2.0 | 1 HOOK | Petal's face is already in frame left (forehead mark visible), Jamal in her mouth, frozen mid-step. Behind her, in focus: Sultana lounging on **Petal's yellow bed**, pearl charm glinting. | Close-up two-plane, rack focus | **"She's in my bed."** | Record-scratch |
 | 2.0–5.0 | 2 | A slow, devastating **side-eye**. Sultana flicks her tail. | Close-up on Petal | — | One pluck |
 | 5.0–10.0 | 3 | Petal sits, splays her stiff hind legs, and does her **heroic sigh** (cheeks flap). Sultana yawns, smug. | Two-shot, locked | **"Fine."** | Long *hmph* |
 | 10.0–15.0 | 4 | Insert: a dusty irrigation timer reads **5:59 AM**, in low morning-gold light. Petal glances at a small sprinkler head, then lies down on the **dry marble patio**. | Insert; wide | **"15 years. Same sprinkler."** | Clock tick ×3 |

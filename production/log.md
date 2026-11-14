@@ -28,3 +28,11 @@
 - Iteration 2 results (avg): Pet Creator 8.26 · Growth 8.09 · Gen-Z ~8.2 · Cultural 8.0. Eps 1, 3 and 4 largely pass; Ep 2 is weakest.
 - v3 fixes: dawn irrigation timer (6:00 AM); Ep 2 water bowl, paw prints, "Puppy smell. Unmistakable. 👃", "Plan A (of 47).", "Chilli. Rookie mistake.", Biscuit's chest hug with Petal's sigh; Ep 4 Jamal insert, "She needs her nose." beat, forehead-mark close-up in the flashback, over-the-shoulder loop end, "Jamal… 🥺 → Ep 5"; Ep 5 "Smells like home.", the جمل tag, neutral hand, tightened button timing; Gotcha Day explained on screen in Eps 1 and 5.
 - Iteration 3 (final): a panel chair verifies the fixes landed and re-scores.
+- Iteration 3 (chair): 20/22 fixes landed (2 superseded); no criterion below 8. Blocking items B1–B5 applied:
+  - Ep 1: shorter secret-mission caption.
+  - Ep 3: Petal's face in frame 0.
+  - Ep 4: "Adopt the old ones 🧡" sticker.
+  - Ep 2: paw prints dry out so the nose tracks; "Shukran, legend."; the memory bubble shows the leash and human hand.
+  - Ep 5: max 3 characters per shot (Mochi's phone POV, split reverse shot); Sultana given an on-screen beat.
+- With B1–B5 applied, the chair projects all 5 episodes at 8.57 average with every criterion ≥8 → P2 PASS.
+- Final social kit: production/review/p2_final_social_kit.md
