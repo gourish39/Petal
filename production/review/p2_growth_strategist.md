@@ -325,3 +325,143 @@ All captions are ≤150 characters and end on a comment-driving question or CTA.
 - **Series consistency:** add a `🎁 X/5` badge in the same corner of every cover so the grid reads as a set.
 - **Trial Reels:** A/B two hook-text variants per episode via Trial Reels. Keep the one with a higher 3s hold rate.
 - **Comment seeding:** pin a comment on each episode, then reply to early comments within the first 60 minutes.
+
+---
+
+## Iteration 2
+
+**Sources re-read:** `story/series_bible.md` (v2, with the "Iteration 2 rules"), `ep01_script.md` … `ep05_script.md` (all v2).
+**Threshold:** still 8 on every criterion. Scores are independent of iteration 1; a change only earns points if it works on screen.
+
+### Verdict
+
+This is a big improvement, and the packaging problems from iteration 1 are mostly solved:
+- Every frame 0 now has Petal's face and a hook caption of 5 words or fewer.
+- The gift count adds up: 4 items in the box, plus Jamal, makes 5/5.
+- Every gift now gets a 1s labelled insert and a twitch.
+- No episode ends on black, and EP3, EP4 and EP5 now actually loop.
+
+**Still not a full pass: 28 of 35 cells, 7 fails across 4 episodes. Only EP3 clears 8 everywhere.**
+
+What still fails falls into three groups. Some iteration-1 fixes were quietly dropped. Some new captions are ambiguous. "Gotcha Day" is still never defined on screen.
+
+| Ep | Hook | Emotional payoff | Loop | Shareability | Mute clarity | Charm | Cultural fit | **Avg** |
+|----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 The Senior Zoomie | 8 | 8 | 8 | 8 | **7** | 9 | 9 | **8.14** |
+| 2 The Nose Knows | 8 | **7** | 9 | **7** | **7** | 8 | 9 | **7.86** |
+| 3 Side-Eye Royalty | 8 | 8 | 8 | 8 | 8 | 9 | 8 | **8.14** |
+| 4 Sandstorm Shepherd | 9 | 9 | 8 | 8 | **7** | **7** | 8 | **8.00** |
+| 5 Fifteen | 9 | 9 | 8 | 8 | 8 | 9 | **7** | **8.29** |
+| **Series avg** | 8.4 | 8.2 | 8.2 | 7.8 | 7.4 | 8.4 | 8.2 | **8.09** |
+
+Iteration 1 averaged 7.2 and passed 17 of 35 cells. Iteration 2 averages 8.09 and passes 28 of 35. Mute clarity is still the weakest criterion.
+
+### Per-episode notes
+
+**EP1: The Senior Zoomie**
+- **Hook 8.** "Saluki vs. Grandma." is a big upgrade: 3 words, a clear match-up, and a Gulf nod. Frame 0 is only her face, so the cover does no work beyond the caption. Use the 10–15s flop frame as the custom cover.
+- **Emotional payoff 8.** The nap-copy beat now has room to land.
+- **Loop 8.** The open-eye match from the end back to frame 0 is clean.
+- **Charm 9.**
+- **Cultural fit 9.** The leash fix removes the rules pile-on, and the Saluki framing is a heritage-positive Gulf hook.
+- **Mute clarity 7.**
+  - The premise line "Secret mission: 5 smells for her Gotcha Day 🤫" depends on "Gotcha Day", but the definition was moved off screen and into the pinned comment. The bible says Mochi's overlay explains the term in EP1. The script does not do that.
+  - The line is also 8 words, and it shares the 21–30s button with a second caption and a 1s insert.
+  - **Fix (21–30s):** shorten it to **"Secret mission: 5 smells for her 15th 🤫"**, or keep "Gotcha Day" and add a 1s sub-caption: "(= the day she was rescued)". Either way, show it for at least 2.0s *before* the "🎁 1/5" tag replaces it.
+
+**EP2: The Nose Knows**
+- **Hook 8.** "Puppy lost. Grandma's on it." puts the stake in frame 0.
+- **Loop 9.** The tail-in-basket clue behind her at 0s rewards a re-watch, which is the best loop mechanic in the series. The caption should bait it (see the kit below).
+- **Charm 8.**
+- **Cultural fit 9.** The no-touching-goods note is good.
+- **Emotional payoff 7.** The episode is about a lost puppy, but the found puppy never reunites with Petal. The only lump is Karak's bow. This iteration-1 fix was dropped.
+  - **Fix (21.5–23.0s):** after Biscuit pops out, add a 1s beat where he launches into Petal's chest and she does the heroic sigh, cheeks flapping. Then cut to Karak's bow.
+- **Shareability 7.** The sneeze, the most screenshot-able beat, still has no caption (12–17s is "—"). The send-to line ("finds the treat you hid") still doesn't match the story.
+  - **Fix (12.5–17.0s):** caption the sneeze **"Chilli. Rookie mistake."**
+- **Mute clarity 7.** "Wet puppy. Unmistakable." is a new ambiguity. On mute, nothing has made Biscuit wet, so viewers read it as "he's wet?", not as a smell.
+  - **Fix (17–23s):** change it to **"Puppy smell. Unmistakable. 👃"**.
+
+**EP3: Side-Eye Royalty (passes)**
+- Every criterion is at 8 or above. The narrative loop now works: the episode ends with Sultana back on the bed, and frame 0's caption "She's in my bed." plays again.
+- "15 years. Same sprinkler." fixes the age maths.
+- "ugh. fine." is a great Sultana voice line.
+- **Non-blocking notes:**
+  - Petal's face "enters frame left" at 0.0s. Make sure it is fully in frame, with the forehead mark visible, on the very first frame. Otherwise the shot breaks the bible's frame-0 rule.
+  - Jamal is in her mouth at 0s and then disappears. Show him beside her on the marble at 21–30s.
+
+**EP4: Sandstorm Shepherd**
+- **Hook 9.** Petal's face, a high tail, Jamal and the sand wall make the best cover in the series.
+- **Emotional payoff 9.** The human hand lifting the puppy in 2011 is the series' strongest image.
+- **Loop 8.**
+- **Shareability 8.** "Adopt the old ones" still lives only in the IG caption. It works, but an on-screen sticker in the last 1.5s would push this to 9.
+- **Cultural fit 8.**
+- **Mute clarity 7.** Two holes:
+  - The flashback caption is still only "Dubai, 2011.", and there is no forehead-mark close-up, so cold viewers read the puppy as a random stray.
+  - Jamal being "left behind" is a tiny shape in a hazy wide shot, and nothing explains why she drops him. EP5's payoff depends on viewers noticing this.
+  - **Fix (7–13s and 13–19s):** caption the flashback **"Petal. Dubai, 2011."** and add a 0.5s close-up of the puppy's forehead mark. At 13–15s, show Jamal blocking her nose as she tries to sniff, then she sets him down. Add the caption **"She needs her nose."** That makes the sacrifice readable and on-brand.
+- **Charm 7.** The episode is still 25s of stoic Petal. The cheeky beat suggested in iteration 1 was not added, and the shake belongs to all three dogs.
+  - **Fix (24–27s):** Petal shakes **last**: a slow, dignified, cheek-flapping shake after the pups finish, ending on a *hmph*.
+
+**EP5: Fifteen**
+- **Hook 9.** "Shhh. Act surprised." over a face lit by the "15" candle sets up the dramatic irony in 1s. No black frame.
+- **Emotional payoff 9.** The hand returning a sandy Jamal with "The last smell: home." works. The side-eye at crying Noor keeps it from getting syrupy.
+- **Loop 8.** The candle re-lighting is a trick-candle gag that works.
+- **Shareability 8.**
+- **Mute clarity 8.** The gift count adds up, and "She knew. Every time." carries the twist.
+- **Charm 9.**
+- **Cultural fit 7.** "Gotcha Day" appears twice on screen (the 2–7s overlay and the 24–30s caption) and is never defined. The finale gets the most cold UAE traffic, and many of those viewers won't know the Western rescue-community term.
+  - **Fix (2–7s):** change Mochi's overlay to **"LIVE 🔴 Petal's Gotcha Day! (15 yrs since her rescue)"**. Optionally, change the 24–30s caption to "Happy 15th Gotcha Day, Petal 🐾".
+
+### Social kit updates (only where v2 scripts changed)
+
+**EP1:** the hook is now the Saluki match-up.
+- Caption (123 chars):
+  > A Saluki challenged a 15-year-old to a race. Bad idea. 🐾 Does your senior still get the zoomies? Tell us their age 👇
+- Hook-text variants:
+  1. Saluki vs. Grandma.
+  2. He's a racing breed. She's 15.
+  3. Never race a senior dog.
+- Pet-niche hashtags: #seniordog #seniordogsofinstagram #zoomies #saluki #rescuedog. #saluki replaces #adoptdontshop, which moves to EP4/EP5.
+
+**EP2:** the new frame-0 basket clue is the re-watch bait.
+- Caption (118 chars):
+  > He had a map. She had a nose from 2011. 👃 Did you spot Biscuit in the first second? Watch again and tell us 👀👇
+- Hook-text variants:
+  1. Puppy lost. Grandma's on it.
+  2. Map vs nose. Guess who.
+  3. Spot the puppy before she does.
+- Hashtag fix: the typo #catsandogs becomes #catsanddogs.
+
+**EP3:** no change. The hook "She's in my bed." and the iteration-1 caption still match v2.
+
+**EP4:** the hook is now "Grandma's done this before."
+- Caption (139 chars):
+  > She was a stray in a Dubai storm in 2011. Now she leads the way, even if it means leaving her toy behind. 🧡 Is your best friend a rescue? 👇
+- Hook-text variants:
+  1. Grandma's done this before.
+  2. Visibility: 0.
+  3. Follow the old one.
+- Hashtags: unchanged.
+
+**EP5:** the hook is now "Shhh. Act surprised."
+- Caption (147 chars):
+  > They planned a surprise. She smelled every gift coming. 🎂 Happy 15th Gotcha Day, Petal (15 years since her rescue). Tag a senior dog who deserves a party 👇
+- Hook-text variants:
+  1. Shhh. Act surprised.
+  2. The surprise she saw coming.
+  3. 15 years. One last smell.
+- Hashtags: unchanged. The #burjkhalifa note still applies.
+
+**Playbook addendum:**
+- EP1's pinned comment must carry the Gotcha Day definition, as the script now says.
+- Use EP2's re-watch question as a Trial Reel A/B against the original caption.
+- EP4 is the adoption-community share piece. Post it with the "Adopt the old ones 🧡" sticker, even if the on-screen fix isn't done.
+
+### Remaining required fixes
+1. EP1 21–30s: replace "her Gotcha Day" with "her 15th", or add the definition sub-caption, and hold it for at least 2s before the tag.
+2. EP2 21.5–23s: add a 1s Biscuit-into-Petal reunion with the heroic sigh.
+3. EP2 12.5–17s: caption the sneeze "Chilli. Rookie mistake."
+4. EP2 17–23s: change "Wet puppy. Unmistakable." to "Puppy smell. Unmistakable. 👃".
+5. EP4 7–19s: caption "Petal. Dubai, 2011." with a forehead-mark close-up, and show Jamal blocking her nose with the caption "She needs her nose."
+6. EP4 24–27s: Petal shakes last, slowly, with cheeks flapping and a *hmph*.
+7. EP5 2–7s: define Gotcha Day in Mochi's overlay: "(15 yrs since her rescue)".

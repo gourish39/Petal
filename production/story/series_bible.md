@@ -10,7 +10,7 @@
 ## The arc: "5 Smells for 15 Years"
 Petal was found as a tiny stray in the desert in **2011**. Her 15th Gotcha Day is coming. In secret, the gang collects **one smell-memory per episode** for a "smell box" gift. Each episode ends on a small tag caption: `🎁 1/5`, `🎁 2/5`, …
 
-**Finale twist:** they think it's a surprise. It isn't. In every episode Petal's eye or nose *twitches* the moment a gift is collected; she clocked every one. She pretends to be surprised anyway, because she loves them. The last gift: in Ep 4 Petal **drops Jamal in the sandstorm** to lead the pups out. In Ep 5 her human's hand returns him: 🎁 5/5, "the last smell: home."
+**Finale twist:** they think it's a surprise. It isn't. In every episode Petal's eye or nose *twitches* the moment a gift is collected; she clocked every one. She pretends to be surprised anyway, because she loves them. The last gift: in Ep 4 Petal **drops Jamal in the sandstorm** to lead the pups out. In Ep 5 her human's hand returns him: 🎁 5/5, "smells like home."
 *"Gotcha Day" = the anniversary of the day a rescue dog was adopted; Mochi's overlay explains it in Ep 1.*
 
 | Ep | Title | Gift collected | Through-line seed |
