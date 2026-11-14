@@ -1,14 +1,14 @@
-# EP 2: THE NOSE KNOWS  (30.0s)
-**Set:** Dubai spice souk · **Cast:** Petal, Captain Kebab, Biscuit
-**Logline:** Biscuit vanishes in the souk. Kebab has a map; Petal has a nose from 2011.
+# EP 2: THE NOSE KNOWS  (30.0s) · v2
+**Set:** A spice souk lane. Petal stays on the walkway, on a leash; no animal touches goods for sale · **Cast:** Petal, Captain Karak, Biscuit
+**Logline:** Biscuit vanishes in the souk. Karak has a map. Petal has a nose from 2011.
 
 | TC | Shot | Action / expression | Camera | Caption | Sound |
 |----|------|---------------------|--------|---------|-------|
-| 0.0–2.0 | 1 HOOK | Petal's big dark nose fills the frame; the nostrils **flare twice**. | ECU, macro | **"This nose remembers every smell since 2011."** | Two big sniffs |
-| 2.0–8.0 | 2 | Souk alley with sacks of spices. Captain Kebab unrolls a **crayon map** with a confident grin. Biscuit's blue collar is lying on the ground; Biscuit is gone. | Medium, slow push | **"Biscuit is missing."** | Souk ambience; pizzicato tension |
-| 8.0–14.0 | 3 | Kebab points left, then right, then turns the map upside down. Petal sniffs: **cardamom** pops a warm memory bubble of tiny puppy Petal, 2011. Then **saffron**, and another bubble. | Two-shot, then insert of a sepia memory bubble | — | Sniff, shimmer ×2 |
-| 14.0–19.0 | 4 | **Chilli sack.** Sniff, then a massive **SNEEZE** that blows Kebab's map away and fluffs up his fur. | Medium, comic hold | — | Huge *ACHOO*, paper flutter |
-| 19.0–25.0 | 5 TURN | Petal ignores all the spice and follows one faint trail, nose low and slow, into a basket stall. A wicker basket **wiggles**. Inside: Biscuit, stuck, tail wagging. | Low tracking at nose height, then a reveal | **"Wet puppy. Unmistakable."** | Theme on oud; relief chord |
-| 25.0–30.0 | 6 BUTTON | Lump beat: Kebab quietly folds his map and **bows** to the legend, then slips a **cardamom pod** into his bandana (🎁). Biscuit sneezes saffron dust onto Petal's nose, and we push in to her nose (loops). | Medium, then ECU match | **🎁 2/5** | Small sneeze; *hhhff* |
+| 0.0–2.0 | 1 HOOK | Petal's face fills frame; nostrils **flare twice**. In the soft background a **wagging tail pokes out of a basket**, a sharp-eyed viewer's clue. | Close-up, shallow depth of field | **"Puppy lost. Grandma's on it."** | Two big sniffs |
+| 2.0–7.0 | 2 | Captain Karak (ginger tabby, red bandana) unrolls a **crayon map**, then points left, then right, then turns it upside down. | Medium, slow push | **"Karak has a plan."** | Pizzicato |
+| 7.0–12.0 | 3 | Petal sniffs the air. A warm sepia **memory bubble** pops: tiny puppy Petal in this same lane. | Medium, then a bubble insert | **"lil Petal, 2011"** | Shimmer |
+| 12.0–17.0 | 4 | A waft of chilli drifts past. Petal **SNEEZES**, which blows Karak's map out of his paws and puffs up his fur. | Two-shot, comic hold | — | Huge *ACHOO*, paper flutter |
+| 17.0–23.0 | 5 TURN | Petal ignores the map and walks slow with her nose low, to an **empty discarded basket** at the lane's end. It **wiggles**. Biscuit pops out, tail wagging. | Low tracking at nose height, then a reveal | **"Wet puppy. Unmistakable."** | Theme on oud |
+| 23.0–30.0 | 6 BUTTON | Lump beat: Karak **bows** to the old legend and gives her a **cardamom pod** from his bandana. Insert (1s, centred): the pod. Petal's nose **twitches**, and we push in to her nose (loops to frame 1). | Medium; insert; close-up | **"🎁 2/5 · Cardamom"** | *hhhff*; theme |
 
-**Laugh:** the chilli sneeze. **Lump:** the street cat bowing to the old stray. **Send-to:** "When your dog finds the treat you hid in another room."
+**Laugh:** the sneeze blasting the map. **Lump:** the street cat bowing to the old ex-stray. **Send-to:** "When your dog finds the treat you hid three rooms away."

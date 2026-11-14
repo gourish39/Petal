@@ -7,18 +7,19 @@
 
 ---
 
-## The arc: "15 Smells for 15 Years"
+## The arc: "5 Smells for 15 Years"
 Petal was found as a tiny stray in the desert in **2011**. Her 15th Gotcha Day is coming. In secret, the gang collects **one smell-memory per episode** for a "smell box" gift. Each episode ends on a small tag caption: `🎁 1/5`, `🎁 2/5`, …
 
-**Finale twist:** they think it's a surprise. It isn't. Petal's nose clocked every gift the moment it was collected. She pretends to be surprised anyway, because she loves them. Then the real final gift arrives: her human's hand holding **Jamal**, smell #15, "home".
+**Finale twist:** they think it's a surprise. It isn't. In every episode Petal's eye or nose *twitches* the moment a gift is collected; she clocked every one. She pretends to be surprised anyway, because she loves them. The last gift: in Ep 4 Petal **drops Jamal in the sandstorm** to lead the pups out. In Ep 5 her human's hand returns him: 🎁 5/5, "the last smell: home."
+*"Gotcha Day" = the anniversary of the day a rescue dog was adopted; Mochi's overlay explains it in Ep 1.*
 
 | Ep | Title | Gift collected | Through-line seed |
 |----|-------|----------------|-------------------|
-| 1 | The Senior Zoomie | Marina sea-breeze palm leaf (Biscuit) | Petal's eye "notices" Biscuit pocket it |
-| 2 | The Nose Knows | Cardamom pod (Captain Kebab) | First hint of 2011 memories |
-| 3 | Side-Eye Royalty | Sprinkler-wet jasmine (Sultana, reluctantly) | Sultana softens |
-| 4 | Sandstorm Shepherd | A pinch of dune sand (Noor) | **Origin flashback: stray puppy Petal, 2011** |
-| 5 | Fifteen | All five + Jamal | Payoff: she knew all along |
+| 1 | The Senior Zoomie | Marina sea-breeze palm leaf (Biscuit) | Petal's eye twitches open as he pockets it |
+| 2 | The Nose Knows | Cardamom pod (Captain Karak) | First hint of 2011 memories |
+| 3 | Side-Eye Royalty | A jasmine flower (Sultana, reluctantly, on screen) | Sultana softens |
+| 4 | Sandstorm Shepherd | Sand-art bottle with a camel pattern (Noor) | **Origin flashback: stray puppy Petal, 2011, rescued**; Petal leaves Jamal behind |
+| 5 | Fifteen | Jamal returned by her human: "home" | Payoff: she knew all along |
 
 ---
 
@@ -28,7 +29,7 @@ Petal was found as a tiny stray in the desert in **2011**. Her 15th Gotcha Day i
 - 15-year-old rescue mix with a white freckled coat, a dark taupe flank patch, a curled plume tail, cloudy-wise eyes, a forehead mark and a lime-green harness. She has a round body on long legs.
 - **Want:** a quiet nap in the sun with Jamal. **Flaw:** stubborn; will not be hurried. **Superpower:** experience (a nose that remembers everything, and calm).
 - **Gags:** the *senior zoomie* (one second of blur speed, then an instant nap); the *judging side-eye*; the *heroic sigh* (cheeks flap); the tongue-out grin sit; the spin-and-trot exit with her tail high.
-- **Prop: JAMAL**, a faded sand-coloured plush camel, loved flat, with one ear and one button eye. His squeaker is dead and only wheezes "hhhff". She has had him since 2011.
+- **Prop: JAMAL** (*jamal* = "camel" in Arabic; shown on screen once), a faded sand-coloured plush camel, loved flat, with one ear and one button eye. His squeaker is dead and only wheezes "hhhff". She has had him since 2011.
 
 ### BISCUIT: the apprentice
 - Cream-and-white **Saluki puppy**, 8 months old, with silky feathered ears and legs far too long for his body. His colour signature is **sky blue** (a little blue collar).
@@ -36,11 +37,11 @@ Petal was found as a tiny stray in the desert in **2011**. Her 15th Gotcha Day i
 - **Relationship:** he worships Petal and copies everything she does, including her naps.
 
 ### SULTANA: the frenemy
-- An enormous **white-silver Persian cat** with a flat royal face, amber eyes and a **tiny gold crescent charm** on a velvet collar. Colour signature: **gold**.
+- An enormous **white-silver Persian cat** with a flat royal face, amber eyes and a **single pearl charm** on a gold velvet collar. Colour signature: **gold**.
 - **Want:** to be adored and to own every cushion. **Flaw:** vanity. **Gag:** a dramatic tail-flick and faint-on-a-cushion.
 - **Relationship:** she pretends to despise Petal and secretly sleeps next to her.
 
-### CAPTAIN KEBAB: the schemer
+### CAPTAIN KARAK: the schemer (named after karak chai: ginger coat, cardamom gift)
 - A scruffy **ginger-tabby street cat** with one notched ear, a battle-scarred nose and a faded **red bandana**. Colour signature: **red**.
 - **Want:** the perfect heist. **Flaw:** overcomplicates everything. **Gag:** unrolls hand-drawn crayon maps.
 - **Relationship:** a fellow ex-stray who respects Petal as the original street legend.
@@ -55,20 +56,26 @@ Petal was found as a tiny stray in the desert in **2011**. Her 15th Gotcha Day i
 - **Want:** going viral. **Flaw:** all bark. **Gag:** captions appear as her "livestream" overlay.
 - **Relationship:** she thinks Petal is her biggest content opportunity, and her biggest hero.
 
-**Silhouette check:** Petal (round barrel, curled tail), Biscuit (stick legs, long ears), Sultana (a giant fluff cloud), Kebab (lean, notched ear, bandana), Noor (big soft rectangle with a vest), Mochi (a tiny sphere).
+**Silhouette check:** Petal (round barrel, curled tail), Biscuit (stick legs, long ears), Sultana (a giant fluff cloud), Karak (lean, notched ear, bandana), Noor (big soft rectangle with a vest), Mochi (a tiny sphere).
 
 ---
 
 ## World: Petal's Dubai
 - **Home base:** a sunny apartment with beige tile, a **yellow velvet dog bed** and Jamal.
-- **Dubai Marina promenade** at golden hour.
+- **Dubai Marina promenade** at golden hour. Dogs are always on leash; leashes run off-frame to an unseen human.
 - **The spice souk** with cardamom, saffron and dried limes.
 - A **villa garden** with a date palm, jasmine, marble and the sprinkler.
 - **The desert dunes** at sunset, with a sandstorm.
-- The **Burj skyline at night** under festive string lanterns (rooftop).
+- The **Burj skyline at night** from a rooftop, with warm fairy lights and plain brass lanterns. No crescents, flags or religious imagery; no call to prayer in ambience.
 - Culturally respectful throughout, with no brands, no logos and no recognisable people. The only human is Petal's owner, shown as a hand.
 
 ## Visual & sound signatures
 - A palette of warm Dubai gold, teal and sunset coral. Each character's colour signature appears in their shots.
 - Captions are in a bold rounded font with a dark outline, kept in the centre-safe area.
 - The **music theme** is a playful 4-bar oud, pizzicato and darbuka motif. Petal's *hmph* sigh and Jamal's *hhhff* wheeze are the series' sonic logos.
+
+## Iteration 2 rules (from the P2 panel)
+- Frame 0 of every episode shows Petal's face (forehead mark visible) and a hook caption of 5 words or fewer.
+- Each gift gets a ≥1s centred labelled close-up, plus Petal's eye or nose twitch.
+- Endings: one emotional action, a gift insert, then the loop frame. Never end on black.
+- Rest is "charging", never collapse: show snore Zs and visible breathing.

@@ -1,14 +1,14 @@
-# EP 3: SIDE-EYE ROYALTY  (30.0s)
-**Set:** Villa garden: date palm, marble, jasmine, the yellow velvet dog bed · **Cast:** Petal, Sultana
-**Logline:** A royal Persian cat steals Petal's bed. Petal has 12 years of garden intel.
+# EP 3: SIDE-EYE ROYALTY  (30.0s) · v2
+**Set:** Villa garden: date palm, marble patio, jasmine bush, the yellow velvet dog bed · **Cast:** Petal, Sultana
+**Logline:** A royal Persian cat steals Petal's bed. Petal has 15 years of garden intel.
 
 | TC | Shot | Action / expression | Camera | Caption | Sound |
 |----|------|---------------------|--------|---------|-------|
-| 0.0–2.0 | 1 HOOK | Sultana lounges on **Petal's yellow velvet bed** in a sunbeam, gold charm glinting, eyes half-shut. | Medium close-up, low hero angle | **"Kneel."** | A regal brass *ta-daa* |
-| 2.0–8.0 | 2 | Petal arrives carrying Jamal and stops. Pause. Slow, devastating **side-eye**. | Over-the-shoulder from Petal | — | One pizzicato pluck |
-| 8.0–14.0 | 3 | Petal sits and splays her stiff hind legs. Sultana flicks her tail. Petal does her **heroic sigh**, cheeks flapping. | Two-shot, locked | **"Fine."** | Long *hmph* |
-| 14.0–19.0 | 4 | Petal glances at the palm shadow, then at a little sprinkler head in the grass (an insert). She slowly lies down **on the cool marble** in the shade. | Insert on the sprinkler; wide | **"12 years. Same schedule."** | Clock tick ×3 |
-| 19.0–25.0 | 5 TURN | **The sprinkler fires.** Sultana is **soaked**, her fluff collapsing like a wet mop. Petal stays dry, eyes closed, smug. | Wide, then a cut to Sultana's flattened face | — | *Fsssh!*, outraged yowl |
-| 25.0–30.0 | 6 BUTTON | Lump beat: Petal stands and **nudges her yellow bed** into the sun toward the shivering cat, then lies beside it. Sultana's paw touches Petal's. Sultana drops a damp jasmine flower into Biscuit's gift pile off-screen (🎁). The wet Sultana flicks her charm in the same pose as frame 1 (loops). | Soft medium, then match frame | **🎁 3/5** | Theme, gentle |
+| 0.0–2.0 | 1 HOOK | Petal's face enters frame left, with Jamal in her mouth, and freezes. Behind her, in focus: Sultana lounging on **Petal's yellow bed**, pearl charm glinting. | Close-up two-plane, rack focus | **"She's in my bed."** | Record-scratch |
+| 2.0–5.0 | 2 | A slow, devastating **side-eye**. Sultana flicks her tail. | Close-up on Petal | — | One pluck |
+| 5.0–10.0 | 3 | Petal sits, splays her stiff hind legs, and does her **heroic sigh** (cheeks flap). Sultana yawns, smug. | Two-shot, locked | **"Fine."** | Long *hmph* |
+| 10.0–15.0 | 4 | Insert: a garden clock reads **3:59**. Petal glances at a small sprinkler head, then lies down on the **dry marble patio**. | Insert; wide | **"15 years. Same sprinkler."** | Clock tick ×3 |
+| 15.0–21.0 | 5 TURN | **4:00. The sprinkler fires.** Sultana is **soaked**, her fluff collapsing into a wet mop with an outraged face. Petal stays dry, eyes closed, smug. | Wide, then a cut to Sultana's face | — | *Fsssh!*; yowl |
+| 21.0–30.0 | 6 BUTTON | Lump beat: Petal gets up, **nudges her bed** into the sunshine for the shivering cat, and lies on the marble beside it. Sultana flicks a **jasmine flower** onto Petal's paw (an insert, 1s). Petal's nose twitches. Sultana **shakes into a giant fluff explosion** and settles back, dry and regal, in the frame-1 pose (loops). | Medium; insert; match frame | **"ugh. fine. 🎁 3/5 · Jasmine"** | Fluff *poof*; theme |
 
-**Laugh:** wet Sultana. **Lump:** Petal giving her bed away. **Send-to:** "Every house with a cat AND a dog."
+**Laugh:** wet Sultana, then the fluff explosion. **Lump:** Petal giving up her bed. **Send-to:** "Every house with a cat AND a dog."

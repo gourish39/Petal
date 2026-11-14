@@ -15,3 +15,13 @@
 
 ## P2 Engagement Review — iteration 1
 - 4 independent reviewers launched (Growth Strategist, Pet Creator, Gen-Z Tester, Cultural Consultant).
+- Iteration 1 results: no episode passed. Series averages were Growth 7.2, Pet Creator 7.69, Gen-Z ~7.4, Cultural 7.3 (cultural fit lowest, at 5.6).
+- Consolidated fixes applied (Script Doctor, v2):
+  - Arc renamed "5 Smells for 15 Years". Jamal is gift 5/5: dropped in Ep 4's sandstorm, returned by the human hand in Ep 5.
+  - Petal's face is in frame 0 of all episodes; hooks are 5 words or fewer.
+  - Ep 1 race logic fixed: Biscuit faceplants BEFORE the line.
+  - Each gift gets a ≥1s labelled insert plus Petal's twitch, so the "she knew" twist pays off.
+  - Cultural: crescent → pearl charm; Captain Kebab → Captain Karak (karak chai, cardamom); leashes on the Marina; no animal touches souk goods; no call to prayer, crescents or flags; fairy lights and brass lanterns on the rooftop.
+  - Senior-owner sensitivity: the flop shows breathing and "Charging…"; the flashback ends with a rescuer's hand; the Ep 5 ending is playful (side-eye, spin-trot) and loops to candlelight, never black.
+  - Ep 3: "15 years. Same sprinkler." with a 3:59 → 4:00 clock; on-screen jasmine; Sultana's fluff explosion restores the frame-1 pose.
+- Iteration 2 review launched.
