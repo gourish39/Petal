@@ -63,3 +63,10 @@
 - Expressions v1 (2 cr): great acting, but clear eyes, grey harness in the bottom row, text labels → ~7.5, FAIL.
 - Expressions v2 (2 cr): labels removed, harness lime in all 6, cloudy eyes → ~8.3.
   - Known flaws: the haze is strong (pale blue); the DETERMINED panel has one brown and one blue eye; the forehead mark is stylised as a small heart-shaped spot on top of the head. Flagged for the user at Gate 2.
+
+## Billing investigation (user asked why the 3-day free trial isn't free)
+- Transactions: only "Registration Credits +10" (19:45 UTC) and then 5 × Nano Banana Pro −2. No trial credits or unlimited grant ever arrived.
+- trial_status: kind=mcp_ultra_unlim, status=active, ends 2026-11-17T19:48Z (3 days ✓), trial_credits=0.
+- unlim_trial_in_mcp_active=false. Higgsfield's own "unlim_trial_in_mcp" promo window ran 2026-07-28 → 07-31, so the unlimited part of this trial type is switched off.
+- Result: the plan shows Ultra for 3 days, but with 0 trial credits and no unlimited generations → everything bills from the 10 registration credits.
+- Top-ups and auto-refill are unavailable for this workspace; the only offered path is ULTRA annual ($65, 3,000 cr/mo).
